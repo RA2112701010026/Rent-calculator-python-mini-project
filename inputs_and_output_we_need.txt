@@ -1,0 +1,7 @@
+1.total rent
+2.total food ordered for snacking
+3.electricity units spend
+4.charge per unit 
+5.persons living in flat
+OUTPUT
+Total amount you have to pay is 
